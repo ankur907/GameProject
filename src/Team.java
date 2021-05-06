@@ -55,7 +55,6 @@ public class Team {
                 player.playerHealthDamage(OppositePlayer);
             }
            player.updatePlayerHealth();
-            //Change
     }
 
 
